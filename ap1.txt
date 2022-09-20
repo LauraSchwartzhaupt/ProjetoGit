@@ -1,2 +1,4 @@
 Projeto de GITHUB em andamento!
 Minha primeira branch chamada Development!
+
+Alterações feita por Beatriz!

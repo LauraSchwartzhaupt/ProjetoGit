@@ -11,28 +11,10 @@ Orci dapibus ultrices in iaculis nunc. Sit amet est placerat in egestas erat imp
 Maecenas pharetra convallis posuere morbi. Tempor id eu nisl nunc mi ipsum faucibus. Nam at lectus urna duis convallis convallis.
 Bibendum ut tristique et egestas. Quis eleifend quam adipiscing vitae proin. Gravida rutrum quisque non tellus.
 Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Venenatis a condimentum vitae sapien pellentesque 
-habitant morbi tristique. Phasellus vestibulum lorem sed risus ultricies tristique.
-Accumsan sit amet nulla facilisi. Arcu cursus euismod quis viverra nibh. Vitae congue eu consequat ac felis donec.
-Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. In dictum non consectetur a erat nam. 
-Tellus mauris a diam maecenas. Dictum sit amet justo donec enim diam vulputate ut. Massa vitae tortor condimentum lacinia quis vel. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Pulvinar sapien et ligula ullamcorper malesuada proin libero. Id porta nibh venenatis cras sed felis. Netus et malesuada fames ac turpis egestas integer eget aliquet. Viverra adipiscing at in tellus integer feugiat scelerisque varius. Diam donec adipiscing tristique risus nec feugiat in fermentum. Lectus nulla at volutpat diam ut. Mattis rhoncus urna neque viverra justo nec. Rhoncus mattis rhoncus urna neque viverra.
-Non arcu risus quis varius quam quisque. Enim lobortis scelerisque fermentum dui. Adipiscing elit pellentesque habitant morbi tristique senectus et. 
-Odio morbi quis commodo odio aenean sed adipiscing. Varius duis at consectetur lorem. Venenatis a condimentum vitae sapien pellentesque habitant. 
-Porttitor leo a diam sollicitudin tempor. Imperdiet massa tincidunt nunc pulvinar. Nisi lacus sed viverra tellus in hac habitasse.
-Justo donec enim diam vulputate ut pharetra sit. Imperdiet proin fermentum leo vel orci porta. Consectetur adipiscing elit duis tristique sollicitudin.
-Enim praesent elementum facilisis leo vel fringilla. Porta nibh venenatis cras sed. Pellentesque id nibh tortor id aliquet lectus proin. 
-Hac habitasse platea dictumst vestibulum rhoncus est. Nunc non blandit massa enim nec dui nunc mattis. Non sodales neque sodales ut etiam sit. 
-Accumsan tortor posuere ac ut consequat semper.
-Elementum integer enim neque volutpat ac tincidunt vitae. Nisi vitae suscipit tellus mauris a diam maecenas sed enim.
-Ac tincidunt vitae semper quis. Pharetra convallis posuere morbi leo urna molestie at. Quam viverra orci sagittis eu. 
-ongue eu consequat ac felis donec et odio. Nunc sed id semper risus in hendrerit gravida. Elit pellentesque habitant morbi tristique senectus et netus.
-Nibh sit amet commodo nulla facilisi nullam vehicula. In ornare quam viverra orci sagittis. Ac turpis egestas sed tempus. 
-Amet commodo nulla facilisi nullam vehicula. Pretium viverra suspendisse potenti nullam ac. Amet risus nullam eget felis eget nunc lobortis mattis.  
-Fermentum iaculis eu non diam phasellus vestibulum. Scelerisque in dictum non consectetur.
-Eu scelerisque felis imperdiet proin fermentum leo. Malesuada pellentesque elit eget gravida cum sociis natoque. 
-Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. 
-Euismod quis viverra nibh cras pulvinar mattis nunc sed blandit. Lorem sed risus ultricies tristique nulla aliquet enim tortor at.
-Viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Morbi quis commodo odio aenean sed. Eget nunc lobortis mattis aliquam faucibus.
-Tortor pretium viverra suspendisse potenti. Viverra nibh cras pulvinar mattis nunc. A scelerisque purus semper eget duis at tellus at.
-Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Etiam dignissim diam quis enim. 
-Dui faucibus in ornare quam viverra orci sagittis eu volutpat. Lacus vestibulum sed arcu non. 
-In est ante in nibh mauris cursus. Lacus sed turpis tincidunt id aliquet.
+
+ALRTERAÇÕES
+
+ALETERAÇOES 
+
+
+

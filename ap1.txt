@@ -2,3 +2,6 @@ Projeto de GITHUB em andamento!
 Minha primeira branch chamada Development!
 
 Alterações feita por Beatriz!
+
+
+Esse é um exemplo de texto da Bea!
